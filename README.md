@@ -1,0 +1,2 @@
+# spark_lagou
+"使用Spark分析拉勾网招聘信息" 系列文章的数据仓库.详见:  https://mp.weixin.qq.com/s?__biz=MzA3MDI0NzQ1MQ==&amp;mid=2649816851&amp;idx=1&amp;sn=9195cb5b24c5d155754d5ae76b7b3428&amp;scene=1&amp;srcid=0830Yu39nWPG3qqMDf01yCdS&amp;key=cf237d7ae24775e88646866db3ccec9ce12e663379c1a9b3f7e8943a0515955400b9969b269e338158514d0d72c9b945&amp;ascene=0&amp;uin=MTk0NjczOTUyMA%3D%3D&amp;devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.11.6+build(15G31)&amp;version=11020201&amp;pass_ticket=nMZOxeaHZB3WY5eP8oH1phZ2uuX%2FN%2FZXcoDAP0jzhhbXZKn64iI8dZN3D3FbvSWt
